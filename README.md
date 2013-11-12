@@ -12,3 +12,5 @@ Running time on Core i7 930:
 ![](https://github.com/ivanaslamov/HoG_SSE/blob/master/outputs/leonid_output.jpg?raw=true)
 
 640x480 test.jpg image 20ms
+
+![](https://github.com/ivanaslamov/HoG_SSE/blob/master/outputs/test_output.jpg?raw=true)
