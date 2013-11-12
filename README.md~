@@ -7,5 +7,5 @@ Sometimes time output shows something like 18446744073708594056. Don't be scared
 
 Running time on Core i7 930:
 
-640x480 test.jpg image 20ms,
+640x480 test.jpg image 20ms
 940x640 leonid.jpg image 41ms
